@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cholec4d"
+version = "1.0.0"
+description = "Training-free 3D time-series surgical scene graphs on CholecSeg8k, and the code that reproduces the paper's numbers"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.10,<3.13"
+# The versions every number was computed with. The bootstrap seeds itself
+# from the bits of the per-window values, so pandas' parser and group mean
+# are pinned too.
+dependencies = [
+    "numpy==1.26.4",
+    "pandas==3.0.1",
+    "opencv-python==4.11.0.86",
+    "pillow==11.3.0",
+    "matplotlib==3.10.8",
+]
+
+[project.optional-dependencies]
+# Depth, segmentation and tracking; needs an NVIDIA GPU.
+pipeline = [
+    "torch==2.10.0",
+    "torchvision==0.25.0",
+    "transformers==5.8.1",
+    "segment-anything @ git+https://github.com/facebookresearch/segment-anything@dca509fe793f601edb92606367a655c15ac00fdf",
+    "depth-anything-3 @ git+https://github.com/ByteDance-Seed/Depth-Anything-3@41736238f5bced4debf3f2a12375d2466874866d",
+]
+test = ["pytest"]
+
+[tool.setuptools]
+packages = ["cholec4d"]

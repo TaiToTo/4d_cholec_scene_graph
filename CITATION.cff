@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper below."
+title: "Toward Training-Free Construction of 3D Time-Series Surgical Scene Graphs via Surface-Normal-Guided Segmentation: code"
+type: software
+license: Apache-2.0
+authors:
+  - family-names: Tamura
+    given-names: Yasuto
+preferred-citation:
+  type: article
+  title: "Toward Training-Free Construction of 3D Time-Series Surgical Scene Graphs via Surface-Normal-Guided Segmentation"
+  journal: "Healthcare Technology Letters"
+  year: 2026
+  authors:
+    - family-names: Tamura
+      given-names: Yasuto
+    - family-names: Iwamura
+      given-names: Masakazu
+    - family-names: Kise
+      given-names: Koichi

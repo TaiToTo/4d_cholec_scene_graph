@@ -1,0 +1,8 @@
+# Intermediate outputs: frames, masks, depth, seeds and tracks. CholecSeg8k
+# and Cholec80 cannot be redistributed, so none of it is committed.
+work/
+.*.partial*
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/

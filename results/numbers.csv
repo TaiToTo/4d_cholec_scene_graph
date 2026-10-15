@@ -1,0 +1,64 @@
+key,where,value,low,high,n,printed,manuscript,note,equal
+table1/rgb@24/f1@0.5,"Table 1, RGB, F1@.5",0.49570422257974184,0.4489954504159123,0.5496560548408553,86.0,"0.496 [0.45, 0.55]","0.496 [0.45, 0.55]",,True
+table1/rgb@24/f1@0.75,"Table 1, RGB, F1@.75",0.34278289444492654,0.2979842397473144,0.3978188787253671,86.0,"0.343 [0.30, 0.40]","0.343 [0.30, 0.40]",,True
+table1/rgb@24/n_reg,"Table 1, RGB, n_reg",14.854154521287876,12.936477038566009,17.441445415403514,86.0,"14.85 [12.9, 17.4]","14.85 [12.9, 17.4]",,True
+table1/rgb@24/miou,"Table 1, RGB, mIoU oracle",0.7327589758495023,0.6774379073597863,0.7924233230426547,86.0,"0.733 [0.68, 0.79]","0.733 [0.68, 0.79]",,True
+table1/rgb@24/merged_f1@0.5,"Table 1, RGB, F1@.5 merged",0.7334165264431727,0.6826314573128421,0.7822785121908862,86.0,"0.733 [0.68, 0.78]","0.733 [0.68, 0.78]",,True
+table1/depth@24/f1@0.5,"Table 1, depth, F1@.5",0.4363089851542518,0.3819924511443065,0.5029312076931535,86.0,"0.436 [0.38, 0.50]","0.436 [0.38, 0.50]",,True
+table1/depth@24/f1@0.75,"Table 1, depth, F1@.75",0.2946469416372113,0.2500835137193947,0.3505362467976627,86.0,"0.295 [0.25, 0.35]","0.295 [0.25, 0.35]",,True
+table1/depth@24/n_reg,"Table 1, depth, n_reg",6.49773656919086,5.910890008970225,7.183988660007856,86.0,"6.50 [5.9, 7.2]","6.50 [5.9, 7.2]",,True
+table1/depth@24/miou,"Table 1, depth, mIoU oracle",0.4922195817422133,0.44370279969199267,0.5531287226521054,86.0,"0.492 [0.44, 0.55]","0.492 [0.44, 0.55]",,True
+table1/depth@24/merged_f1@0.5,"Table 1, depth, F1@.5 merged",0.5043296810586491,0.44145597837021666,0.5799997376824376,86.0,"0.504 [0.44, 0.58]","0.504 [0.44, 0.58]",,True
+table1/normal@24/f1@0.5,"Table 1, normal, F1@.5",0.49164102949583904,0.43898081861529,0.5459714443618529,86.0,"0.492 [0.44, 0.55]","0.492 [0.44, 0.55]",,True
+table1/normal@24/f1@0.75,"Table 1, normal, F1@.75",0.33477134276994436,0.27927834921664885,0.39157084299882183,86.0,"0.335 [0.28, 0.39]","0.335 [0.28, 0.39]",,True
+table1/normal@24/n_reg,"Table 1, normal, n_reg",8.105275097342382,7.3155654673569614,8.868477294058764,86.0,"8.11 [7.3, 8.9]","8.11 [7.3, 8.9]",,True
+table1/normal@24/miou,"Table 1, normal, mIoU oracle",0.5736361334592787,0.5130537970526258,0.6354408489707756,86.0,"0.574 [0.51, 0.64]","0.574 [0.51, 0.64]",,True
+table1/normal@24/merged_f1@0.5,"Table 1, normal, F1@.5 merged",0.5917805885183934,0.527907161336245,0.660255921823643,86.0,"0.592 [0.53, 0.66]","0.592 [0.53, 0.66]",,True
+table1/rgb@8/f1@0.5,"Table 1, RGB (pps 8), F1@.5",0.5420761065619457,0.4945731667887897,0.5931234588238001,86.0,"0.542 [0.49, 0.59]","0.542 [0.49, 0.59]",,True
+table1/rgb@8/f1@0.75,"Table 1, RGB (pps 8), F1@.75",0.3904067844863309,0.34030685928110765,0.44867892616637856,86.0,"0.390 [0.34, 0.45]","0.390 [0.34, 0.45]",,True
+table1/rgb@8/n_reg,"Table 1, RGB (pps 8), n_reg",10.922074252517193,9.739856202393314,12.54736443758096,86.0,"10.92 [9.7, 12.5]","10.92 [9.7, 12.5]",,True
+table1/rgb@8/miou,"Table 1, RGB (pps 8), mIoU oracle",0.7033796969490371,0.6469299814396302,0.7638661322724307,86.0,"0.703 [0.65, 0.76]","0.703 [0.65, 0.76]",,True
+table1/rgb@8/merged_f1@0.5,"Table 1, RGB (pps 8), F1@.5 merged",0.6992503388737036,0.6463501508458489,0.7502111325705639,86.0,"0.699 [0.65, 0.75]","0.699 [0.65, 0.75]",,True
+table1/rgb@6/f1@0.5,"Table 1, RGB (pps 6), F1@.5",0.5390506501120046,0.49046430570476823,0.5936921214407377,86.0,"0.539 [0.49, 0.59]","0.539 [0.49, 0.59]",,True
+table1/rgb@6/f1@0.75,"Table 1, RGB (pps 6), F1@.75",0.39389722288202084,0.33989867396014556,0.45593922382404567,86.0,"0.394 [0.34, 0.46]","0.394 [0.34, 0.46]",,True
+table1/rgb@6/n_reg,"Table 1, RGB (pps 6), n_reg",9.533905344700125,8.654170556441146,10.697635543211474,86.0,"9.53 [8.7, 10.7]","9.53 [8.7, 10.7]",,True
+table1/rgb@6/miou,"Table 1, RGB (pps 6), mIoU oracle",0.6769410116810335,0.617477882482384,0.7396080627394837,86.0,"0.677 [0.62, 0.74]","0.677 [0.62, 0.74]",,True
+table1/rgb@6/merged_f1@0.5,"Table 1, RGB (pps 6), F1@.5 merged",0.6746519887506682,0.613505524671991,0.7335183177148702,86.0,"0.675 [0.61, 0.73]","0.675 [0.61, 0.73]",,True
+diff/normal-rgb/f1@0.5,"Sec. 5, normal - RGB, F1@.5",-0.004063193083902942,-0.04602972751520805,0.03236613157954651,86.0,"-0.004 [-0.05, +0.03]","-0.004 [-0.05, +0.03]",,True
+diff/normal-depth/f1@0.5,"Sec. 5, normal - depth, F1@.5",0.055332044341587096,0.0011635783567727782,0.10564066076682162,86.0,"+0.055 [+0.001, +0.11]","+0.055 [+0.001, +0.11]",,True
+diff/normal-depth/f1@0.75,"Sec. 5, normal - depth at IoU 0.75",0.040124401132733106,-0.0007291437166103052,0.08444754777631787,86.0,includes 0,includes 0,,True
+diff/normal-rgb@6/f1@0.5,"Sec. 5, normal - RGB at pps 6, F1@.5",-0.04740962061616567,-0.09222816239357692,-0.014627669107421123,86.0,"-0.047 [-0.09, -0.01]","-0.047 [-0.09, -0.01]",,True
+mixing/rgb/straddle,"Sec. 5, rgb regions straddling instances",0.2424765267890234,,,,24%,24%,,True
+mixing/rgb/instrument_tissue,"Sec. 5, rgb instrument + tissue",0.04334087231428806,,,,4%,4%,,True
+mixing/normal/straddle,"Sec. 5, normal regions straddling instances",0.4116564057570671,,,,41%,41%,,True
+mixing/normal/instrument_tissue,"Sec. 5, normal instrument + tissue",0.10917648290307669,,,,11%,11%,,True
+gt/instances,"Sec. 4.2 and Fig. 5, instances per frame",11.280567716012433,,,,11.3,11.3,,True
+gt/classes,"Sec. 4.2, classes per frame",5.691270703208976,,,,5.7,5.7,,True
+sam/rgb/growth,"Sec. 5, SAM masks pps 4 -> 48, rgb",6.962305986696229,,,,7.0x,7.0x,,True
+sam/normal/growth,"Sec. 5, SAM masks pps 4 -> 48, normal",2.103286384976526,,,,2.1x,2.1x,,True
+sam/growth_gap_all_cuts,"Sec. 5, growth gap across quality cuts (not shown)",,,,,excludes 0,excludes 0,,True
+count/normal/covered,"Sec. 5, instances covered by normal",0.9000660886845768,,,,90%,90%,,True
+count/normal/below_instances,"Sec. 5, normal below the instance count",3.175292618670049,1.7577165974505378,4.523794343260325,86.0,"3.2 [1.8, 4.5]","3.2 [1.8, 4.5]",,True
+count/normal/above_classes,"Sec. 5, normal above the class count",2.4140043941334057,1.6005643197395372,3.1699321229643305,86.0,"2.4 [1.6, 3.2]","2.4 [1.6, 3.2]",,True
+count/normal/between_from,"Sec. 5, normal between the two counts from pps",,,,,pps 6,pps 6,,True
+sweep/rgb/peak,"Sec. 5, RGB peak F1@.5",0.5420761065619457,,,,0.542 (pps 8),0.542 (pps 8),,True
+sweep/normal/range,"Sec. 5, normal F1@.5 range",,,,,0.46-0.50,0.46-0.50,,True
+sweep/rgb/lovo,"Sec. 5, RGB tuned leave-one-video-out",0.5368045877593467,,,,0.537,0.537,,True
+table2/rgb/kept,"Table 2, rgb, kept (static)",0.8025008287496348,,,,0.803 (0.607),0.803 (0.607),,True
+table2/rgb/switch,"Table 2, rgb, ID switch",0.0054007358185598365,,,,0.5%,0.5%,,True
+table2/rgb/frag,"Table 2, rgb, frag. / GT track",1.0915391050887628,,,,1.092,1.092,,True
+table2/depth/kept,"Table 2, depth, kept (static)",0.7911854518914921,,,,0.791 (0.591),0.791 (0.590),"the static share of depth is 0.5905, which rounds to 0.591; the paper prints 0.590",False
+table2/depth/switch,"Table 2, depth, ID switch",0.006704150254261621,,,,0.7%,0.7%,,True
+table2/depth/frag,"Table 2, depth, frag. / GT track",1.0478052309447656,,,,1.048,1.048,,True
+table2/normal/kept,"Table 2, normal, kept (static)",0.8081963931556174,,,,0.808 (0.607),0.808 (0.607),,True
+table2/normal/switch,"Table 2, normal, ID switch",0.006550892924701721,,,,0.7%,0.7%,,True
+table2/normal/frag,"Table 2, normal, frag. / GT track",1.0634173445752713,,,,1.063,1.063,,True
+temporal/normal/kept,"Sec. 5 and abstract, normal kept",0.8081963931556174,0.7676896782017805,0.8408852902873414,86.0,"80.8% [76.8, 84.1]","80.8% [76.8, 84.1]",,True
+temporal/normal-rgb/kept,"Sec. 5, normal - RGB kept",0.005695564405982788,-0.027300044926120863,0.03239445430637032,86.0,includes 0,includes 0,,True
+temporal/normal/static,"Sec. 5 and abstract, normal static",0.60685472274467,,,,60.7%,60.7%,,True
+temporal/normal/tracked-static,"Sec. 5, tracking contributes",0.20134167041094725,0.17782887752051987,0.22213418761077733,86.0,"+0.201 [+0.18, +0.22]","+0.201 [+0.18, +0.22]",,True
+temporal/normal/reappear,"Sec. 5, returned on the same class",,,,,31 of 32,31 of 32,,True
+relations/normal/pairs,"Sec. 5, pairs matched to two instances",0.3413637496396312,,,,34%,34%,,True
+relations/normal/agree_2d,"Sec. 5 and abstract, 2D relations agree",0.9197162896174902,,,,92.0%,92.0%,,True
+relations/normal/change,"Sec. 5, relation changes P / R",,,,,0.37 / 0.37,0.37 / 0.37,,True
+relations/normal/vanish_precision,"Sec. 5, disappearance precision",0.09962328200033119,,,,0.10,0.10,,True
